@@ -1,0 +1,6 @@
+model\Pessoa.class
+model\Senhora.class
+model\Factory.class
+view\FactoryMain.class
+model\Outros.class
+model\Senhor.class
